@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h5{
 
 /*header section css strt*/
 .header-section{
-    background: url(images/bnr.png)no-repeat center center;
+    background: url(bnr.png)no-repeat center center;
     background-size: cover;
     width: 100%;
     position: relative;
@@ -369,7 +369,7 @@ h1,h2,h3,h4,h5,h5{
 .clients-view{
     width: 100%;
     height: 500px;
-    background: url(images/banner3.png) center top no-repeat;
+    background: url(banner3.png) center top no-repeat;
 }
 .clients-view h2{
     font-family: 'montserrat' sans-serif;
@@ -431,7 +431,7 @@ h1,h2,h3,h4,h5,h5{
 .download{
     width: 100%;
     height: 920px;
-    background: url(images/banner4.png) center top no-repeat;
+    background: url(banner4.png) center top no-repeat;
 }
 .download h2{
     font-family: 'montserrat' sans-serif;
@@ -466,7 +466,7 @@ h1,h2,h3,h4,h5,h5{
 }
 .register{
     height: 480px;
-    background: url(images/banner5.png) center top no-repeat;
+    background: url(banner5.png) center top no-repeat;
 }
 .register h2 {
     font-family: 'montserrat' sans-serif;
